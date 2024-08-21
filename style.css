@@ -25,6 +25,7 @@ h1{
 
 .secondary-images{
   width: 100%;
+  margin-top: 48px;
 }
 
 h4{
@@ -42,9 +43,27 @@ h2{
   margin-top: 20px;
 }
 
+.content-card-paragraph{
+  font-weight: bold;
+
+}
+
 ul, li{
   margin-left: 15px;
-  background-color: red;
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.color-purple{
+  color: #591B98;
+}
+
+.color-pink{
+  color: #E5245E;
+}
+
+.color-orange{
+  color: #E95E10;
 }
 
 .subtitle{
